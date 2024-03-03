@@ -1,6 +1,7 @@
 # unit 1
 ## 1 state
 [斯dei4特] v.谨慎的宣称 n.政府，国家，状态 adj.国家的
+
 statement n.正式的陈述、说明
 ## 2 declare
 [滴可裂儿] v. 公布，表明，申报
