@@ -5,7 +5,10 @@
 statement n.正式的陈述、说明
 ## 2 declare
 [滴可裂儿] v. 公布，表明，申报
-派生：declaration[搭扣瑞讯] n.宣言，申报单；declarative[滴可裂儿tive] adj. 宣言的
+
+declaration[搭扣瑞讯] n.宣言，申报单
+
+declarative[滴可裂儿tive] adj. 宣言的
 ## 3 claim
 [可累m] v. n. 声称，断言
 claimant n. ……的人
